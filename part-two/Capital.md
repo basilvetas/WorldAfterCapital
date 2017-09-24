@@ -47,9 +47,13 @@ Sex &mdash; no capital requirement per se for having children. There is sufficie
 
 ## Physical Needs
 
-Shelter &mdash; By 2005 we had 256 Billion Square Feet of Residential Real Estate in the U.S.  [https://www.eia.gov/emeu/efficiency/recs_4_table.pdf (link broken)]. At the time the U.S. population was about 300M people. That works out to about 256 \* 10^9 / 300 \* 10^6 = 853 square feet or about 80 square meters per person. Obviously this is not equally distributed, but it shows that we have 8x as much space on average than I had identified as a basic need.
+Shelter &mdash; As of 2016, it is estimated there are more than 135 Million housing units in the U.S. {{"FRED2" | cite}}: 
 
-An alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet. By then U.S. population was 316 Million people which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet or 67 square meter per person.
+![Total Housing Units for United States](../assets/housing-units.png)
+
+For the same year the U.S. population was about 320M people. That works out to about one home for every 2.5 people. Obviously this is not equally distributed, but as a heuristic this data indicates we should have no problem providing shelter to every citizen in the U.S. 
+
+As further evidence for this, an alternative data source is the American Housing Survey. Using this table {{ "AHS" | cite}} for 2013 I get 230 Billion Square Feet of residential real estate in the United States. At that point the U.S. population was 316 Million people, which works out to 230 \* 10^9 / 316 \* 10^6 = 727 square feet, or 67 square meters, per person.
 
 Another way to look at the physical capacity of the economy is to consider new construction. From the same Census data source it appears we are building about about 2,735 / 4 = 683 \* 10^3 units per year with average square footage of 1,737 square feet. That means we have the physical capital to add 0.683 * 10^6 \* 1.737 \* 10^3 square feet = 1.186 \* 10^9 square feet (about 1 billion square feet) which is more than 100 million square meters per year or enough to meet the basic need of 10 million people.
 
