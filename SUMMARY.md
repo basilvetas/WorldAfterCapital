@@ -30,6 +30,8 @@
 * [Part Four: Taking Responsibility](part-four/README.md)
     * [Democracy](part-four/Democracy.md)
     * [Responsibility](part-four/Responsibility.md)
+    * [Urgency](part-four/Urgency.md)
 
 * [Conclusion](Conclusion.md)
+* [Appendix](Appendix.md)
 * [References](References.md)
