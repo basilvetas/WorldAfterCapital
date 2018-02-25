@@ -15,7 +15,7 @@ Now if we all had inherited wealth, or sufficient income from capital, an econom
 
 ## The Job Loop
 
-For a long time the possibility of a slump in consumer demand due to less labor seemed not just unlikely, but downright impossible. We had a perfectly working loop at the heart of economic growth, which I call the &ldquo;job loop&rdquo;
+For a long time the possibility of a slump in consumer demand due to less labor seemed not just unlikely, but downright impossible. We had a perfectly working loop at the heart of economic growth, which I call the &ldquo;job loop&rdquo;:
 
 ![The Job Loop](../assets/job-loop.png)
 

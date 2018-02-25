@@ -30,13 +30,13 @@ The primary strategies for meeting our power needs are breathing air, drinking w
 
 There is plenty of air to breathe (one time reminder: please see the Appendix for backup on this and the following assertions), the key challenge today is having clean, breathable air. China and India are both struggling with that at the moment, but this is due to rapid development using outdated energy sources. The clean air achieved in industrialized countries shows that this is a temporary development stage.
 
-Similarly there is plenty of water in the world for everyone to drink. There are distribution and access problems, including right here in the United States (e.g., the polluted water in Flint, Michigan). Again though, physical capital is not a binding constraint. We can even build new desalination plants in record time. [Example] 
+Similarly there is plenty of water in the world for everyone to drink. There are distribution and access problems, including right here in the United States (e.g., the polluted water in Flint, Michigan). Again though, physical capital is not a binding constraint. We can even build new desalination plants in record time {{"CAD" | cite}}.
 
 We have also made dramatic progress in farming. In fact, globally the amount of land required for farming has started to decline as a result of higher per acre productivity.  We have made recent breakthroughs in vertical and automated farming. For instance, the world&apos;s larges vertical farm is currently under construction in Jersey City. The Japanese indoor farming company Spread is working on a fully automated facility that will be able to produce 30,000 heads of lettuce per day {{ "BI" | cite }}.
 
 The discharge need is primarily addressed through modern sewage technology. Here too capital is no longer a binding constraint per se, but again there is a global distribution problem. To see how quickly this has the potential to change, consider the migration that has taken place in China from the country side into cities.
 
-The Chinese construction boom also illustrates how quickly we can build shelter as a strategy to address the need for a controlled physical environment. In the US too we had a prior construction boom which was powered by artificially cheap mortgage credit. While a lot of housing was built in the wrong places it powerfully demonstrated our construction capacity. 
+The Chinese construction boom also illustrates how quickly we can build shelter as a strategy to address the need for a controlled physical environment. In the U.S. too we had a prior construction boom, which was powered by artificially cheap mortgage credit. While a lot of housing was built in the wrong places, it powerfully demonstrated our construction capacity. 
 
 Clothing is another strategy for addressing this need. The price of clothing has been falling in the United States and in many other parts of the world. Capital is not a constraint here and we can clothe everyone in the world many times over.  
 
